@@ -1,0 +1,42 @@
+Symbol ID,English,Bokmål,Nynorsk,Old ID,Variants
+clearsky,Clear sky,Klarvær,Klårvêr,1,1
+fair,Fair,Lettskyet,Lettskya,2,1
+partlycloudy,Partly cloudy,Delvis skyet,Delvis skya,3,1
+cloudy,Cloudy,Skyet,Skya,4,0
+lightrainshowers,Light rain showers,Lette regnbyger,Lette regnbyer,40,1
+rainshowers,Rain showers,Regnbyger,Regnbyer,5,1
+heavyrainshowers,Heavy rain showers,Kraftige regnbyger,Kraftige regnbyer,41,1
+lightrainshowersandthunder,Light rain showers and thunder,Lette regnbyger og torden,Lette regnbyer og torevêr,24,1
+rainshowersandthunder,Rain showers and thunder,Regnbyger og torden,Regnbyer og torevêr,6,1
+heavyrainshowersandthunder,Heavy rain showers and thunder,Kraftige regnbyger og torden,Kraftige regnbyer og torevêr,25,1
+lightsleetshowers,Light sleet showers,Lette sluddbyger,Lette sluddbyer,42,1
+sleetshowers,Sleet showers,Sluddbyger,Sluddbyer,7,1
+heavysleetshowers,Heavy sleet showers,Kraftige sluddbyger,Kraftige sluddbyer,43,1
+lightssleetshowersandthunder ,Light sleet showers and thunder,Lette sluddbyger og torden,Lette sluddbyer og torevêr,26,1
+sleetshowersandthunder,Sleet showers and thunder,Sluddbyger og torden,Sluddbyer og torevêr,20,1
+heavysleetshowersandthunder,Heavy sleet showers and thunder,Kraftige sluddbyger og torden,Kraftige sluddbyer og torevêr ,27,1
+lightsnowshowers,Light snow showers,Lette snøbyger,Lette snøbyer,44,1
+snowshowers,Snow showers,Snøbyger,Snøbyer,8,1
+heavysnowshowers,Heavy snow showers,Kraftige snøbyger,Kraftige snøbyer,45,1
+lightssnowshowersandthunder,Light snow showers and thunder,Lette snøbyger og torden,Lette snøbyer og torevêr,28,1
+snowshowersandthunder,Snow showers and thunder,Snøbyger og torden,Snøbyer og torevêr,21,1
+heavysnowshowersandthunder,Heavy snow showers and thunder,Kraftige snøbyger og torden,Kraftige snøbyer og torevêr,29,1
+lightrain,Light rain,Lett regn,Lett regn,46,0
+rain,Rain,Regn,Regn,9,0
+heavyrain,Heavy rain,Kraftig regn,Kraftig regn,10,0
+lightrainandthunder,Light rain and thunder,Lett regn og torden,Lett regn og torevêr,30,0
+rainandthunder,Rain and thunder,Regn og torden,Regn og torevêr,22,0
+heavyrainandthunder,Heavy rain and thunder,Kraftig regn og torden,Kraftig regn og torevêr,11,0
+lightsleet,Light sleet,Lett sludd,Lett sludd,47,0
+sleet,Sleet,Sludd,Sludd,12,0
+heavysleet,Heavy sleet,Kraftig sludd,Kraftig sludd,48,0
+lightsleetandthunder,Light sleet and thunder,Lett sludd og torden,Lett sludd og torevêr,31,0
+sleetandthunder,Sleet and thunder,Sludd og torden,Sludd og torevêr,23,0
+heavysleetandthunder,Heavy sleet and thunder,Kraftig sludd og torden,Kraftig sludd og torevêr,32,0
+lightsnow,Light snow,Lett snø,Lett snø,49,0
+snow,Snow,Snø,Snø,13,0
+heavysnow,Heavy snow,Kraftig snø,Kraftig snø,50,0
+lightsnowandthunder,Light snow and thunder,Lett snø og torden,Lett snø og torevêr,33,0
+snowandthunder,Snow and thunder,Snø og torden,Snø og torevêr,14,0
+heavysnowandthunder,Heavy snow and thunder,Kraftig snø og torden,Kraftig snø og torevêr,34,0
+fog,Fog,Tåke,Skodde,15,0
